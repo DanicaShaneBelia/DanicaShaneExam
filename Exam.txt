@@ -5,3 +5,5 @@ id-22104677-Marian -MEMBER 4
 
 22104713@usc.edu.ph-Member2
 22104738@usc.edu.ph-member1
+22104721@usc.edu.ph-Member3 
+=== Table 1 ===
